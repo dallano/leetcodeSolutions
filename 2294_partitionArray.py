@@ -1,7 +1,7 @@
 def partitionArray(nums, k):
     max = 0
 
-    # If we have a valid array, we immediately have a potential parition
+    # If we have a valid array, by default we have 1 potential parition
     if len(nums) > 0:
         nums.sort()
         max += 1
