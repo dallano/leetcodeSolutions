@@ -1,4 +1,6 @@
 # Solution to 3. Longest Substring Without Repeating Characters
+# Given a string s, find the length of the longest substring without duplicate characters.
+
 def lengthOfLongestSubstring(s):
     max = 0
     hash = {}

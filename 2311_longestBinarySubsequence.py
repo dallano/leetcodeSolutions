@@ -10,7 +10,7 @@
 
 
 # Devnotes:
-# As we can delete 1s, we will move from the right side and ignore all 1s s.t. that put our value above k
+# As we can delete 1s, we will move from the right side and ignore all 1s that put our value above k
 def longestSubsequence(s, k):
     numOnes  = 0
     decValue = 0

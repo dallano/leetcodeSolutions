@@ -1,4 +1,5 @@
 # Solution to 5. Longest Palindromic String ( Brute Force: O(n^2) time)
+# Given a string s, return the longest palindromic substring in s.
 
 def longestPalindrome(s):
     longestPalindrome = ""
