@@ -20,4 +20,5 @@ def lengthOfLongestSubstring(s):
                 break
     return max
 
+# Test cases:
 print(lengthOfLongestSubstring("bbbbbbjhsdklbbashdhj"))

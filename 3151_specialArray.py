@@ -17,6 +17,7 @@ def isArraySpecial(nums):
 
     return True
 
+# Test cases:
 nums1 = [1] #True
 nums2 = [2, 1, 4] #True
 nums3 = [4, 3, 1, 6] #False

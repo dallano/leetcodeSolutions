@@ -19,5 +19,6 @@ def longestPalindrome(s):
 
     return longestPalindrome
 
+# Test cases:
 string = "ccc1112321 454"
 print(longestPalindrome(string))

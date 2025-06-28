@@ -26,6 +26,7 @@ def longestSubsequence(s, k):
 
     return s.count('0') + numOnes # Return all 0s, plus amount of 1s we traversed from the right while remaining under k
 
+# Test cases:
 testS1 = "000000001"
 testK1 = 4
 testS2 = "1001001110101"

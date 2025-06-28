@@ -24,6 +24,7 @@ def partitionArray(nums, k):
 
     return max
 
+# Test cases:
 array = [1, 1, 1, 2, 3, 5, 6, 7, 10, 13, 17]
 diff  = 3
 

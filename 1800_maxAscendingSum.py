@@ -17,6 +17,7 @@ def maxAscendingSum(nums):
 
     return maxSum
 
+# Test cases:
 nums1 = [10, 20, 30, 5, 10, 50] # Solution 65
 nums2 = [10, 20, 30, 40, 50] # Solution 150
 nums3 = [12, 17, 15, 13, 10, 11, 12] # Solution 33

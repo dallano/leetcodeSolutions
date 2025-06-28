@@ -33,6 +33,7 @@ def lengthAfterTransformations(s, t):
     # Return value is the sum of the count of each character we have
     return sum(intArray) % (10 ** 9 + 7)
 
+# Test cases:
 s1 = "zayz"
 t1 = 28
 s2 = "ajqktcurgdvlibczdsvnsg"

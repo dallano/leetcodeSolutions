@@ -34,7 +34,7 @@ def areAlmostEqual(s1, s2):
 
     return flag
 
-
+# Test cases:
 str1, str2 = "bank", "kanb"
 str3, str4 = "attack", "defend"
 str5, str6 = "kelb", "kelb"

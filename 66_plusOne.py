@@ -17,5 +17,6 @@ def plusOne(digits):
 
     return newList
 
+# Test cases:
 nums = [9, 4, 3, 9, 9, 9]
 print(plusOne(nums))

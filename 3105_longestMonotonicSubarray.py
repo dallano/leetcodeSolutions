@@ -27,7 +27,7 @@ def longestMonotonicSubarray(nums):
 
     return longest
 
-
+# Test cases:
 nums1 = [1, 4, 3, 3, 2] # Solution: 2
 nums2 = [3, 3, 3, 3] # Solution: 1
 nums3 = [3, 2, 1] # Solution: 3

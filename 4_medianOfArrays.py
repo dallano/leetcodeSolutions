@@ -14,4 +14,5 @@ def findMedianSortedArrays(nums1, nums2):
     else:
         return nums1[index]
     
+# Test cases:
 print(findMedianSortedArrays([1, 2], [3, 4]))

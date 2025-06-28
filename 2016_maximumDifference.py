@@ -13,6 +13,7 @@ def maximumDifference(nums):
 
     return maxDifference
 
+# Test cases:
 nums1 = [7, 1, 5, 4] # Solution 4
 nums2 = [9, 4, 3, 2] # Solution -1
 nums3 = [1, 5, 2, 10] # Solution 9
